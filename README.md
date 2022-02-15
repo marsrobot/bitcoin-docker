@@ -9,4 +9,4 @@
 - Run ./docker_build.sh
 
 # Note
-- This is standard Bitcoin Core.
+- This is the standard Bitcoin Core. Not going to be able to mine a bitcoin :-)
